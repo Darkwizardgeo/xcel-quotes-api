@@ -1,0 +1,6 @@
+.git
+vendor
+var
+storage/
+.env
+.env-test
