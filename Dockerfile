@@ -25,6 +25,3 @@ WORKDIR /var/www/quote-api
 
 COPY . /var/www/quote-api/
 
-COPY .env-example .env
-
-COPY .env-test-example .env-test
